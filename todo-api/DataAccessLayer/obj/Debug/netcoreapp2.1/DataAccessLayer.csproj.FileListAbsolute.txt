@@ -1,0 +1,9 @@
+D:\projects\todo-app\todo-api\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\projects\todo-app\todo-api\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\projects\todo-app\todo-api\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\projects\todo-app\todo-api\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache

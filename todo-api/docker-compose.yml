@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  todoapplication:
+    image: ${DOCKER_REGISTRY-}todoapplication
+    build:
+      context: .\ToDoApplication
+      dockerfile: Dockerfile
